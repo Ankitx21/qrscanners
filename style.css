@@ -1,0 +1,37 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.scanner{
+    width: 92%;
+    margin-top: 20px;
+}
+.container {
+    text-align: center;
+    margin: 90px 500px 90px 500px; /* Adjust the top, right, bottom, and left margins  */
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+  }
+.header{
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    max-width: 90%; /* Adjust the max-width  */
+    margin: 0 auto; /* Center the header horizontally */
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-weight: 700px;
+    font-weight: bolder;
+}
+.text{
+   color: hsl(220, 15%, 55%);
+   font-family: 'Outfit', sans-serif;
+   max-width: 85%;
+   margin:0 auto;
+   font-size: 12px;
+   padding-bottom: 30px;
+}
+
+
+
+
+ 
